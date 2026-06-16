@@ -8,9 +8,6 @@ Interested in clean, optimized, escrow-protected scripts? Check out my store bel
   <img src="https://r2.fivemanage.com/CWDuI3yLS4av0OWnTLNNl/tebex_banner.png" alt="Tebex Store" width="400" />
 </a>
 
-<a href="https://spoody.store">
-  <img src="https://img.shields.io/badge/Tebex-Visit%20my%20store-5865F2?style=for-the-badge&logo=tebex&logoColor=white" alt="Tebex Store" />
-</a>
 ---
 
 ## What I do
