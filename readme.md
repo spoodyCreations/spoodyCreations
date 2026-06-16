@@ -1,4 +1,4 @@
-# Hi, I'm spoody 👋
+# Hi, I'm Spoody 👋
 
 ### Premium, high-quality escrowed FiveM scripts
 
